@@ -1,0 +1,16 @@
+{
+  "name": "resumable-video-upload",
+  "version": "1.0.0",
+  "description": "resumable video uploading ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inayat Ullah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "socket.io": "^2.2.0"
+  }
+}
